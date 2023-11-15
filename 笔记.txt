@@ -1,0 +1,10 @@
+amend：修改本地文件
+branch：区分发布版本与实验版本
+merge branch：手动修改冲突
+stash：暂存代码
+rebase：合并分支，且不会存在分支
+merse：合并分支，且会保留修改历史
+check out：回到之前的版本
+undoing：撤销上次的修改操作
+redo：重做上次的操作（都是存在与本地服务器的）
+revert：撤销远程服务器上的操作（生成与之前相反的操作）
